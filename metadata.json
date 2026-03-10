@@ -1,0 +1,5 @@
+{
+  "name": "LLM Content Readiness Auditor",
+  "description": "Upload or paste your content and get an AI-driven readiness report showing how well your writing performs across ChatGPT, Gemini, Claude, Perplexity, and Grok — with actionable fixes.",
+  "requestFramePermissions": []
+}
